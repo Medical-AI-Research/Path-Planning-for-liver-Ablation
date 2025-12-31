@@ -83,5 +83,5 @@ Output:
 <img width="886" height="828" alt="Screenshot 2025-12-23 162000" src="https://github.com/user-attachments/assets/0060fa2f-aca0-4c3c-a422-b9c60809accc" />
 
 
-
+Only for Research purposes. Not for clinical Trails 
 
